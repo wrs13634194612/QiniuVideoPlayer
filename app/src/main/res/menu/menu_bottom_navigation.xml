@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_news"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="人口结构" />
+    <item
+        android:id="@+id/item_lib"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="学习" />
+
+    <item
+        android:id="@+id/item_find"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="城镇化率" />
+
+    <item
+        android:id="@+id/item_more"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="男女比例" />
+
+</menu>
